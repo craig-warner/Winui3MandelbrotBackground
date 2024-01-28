@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MandelbrotBackground (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MandelbrotBackground (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
